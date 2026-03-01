@@ -1,2 +1,2 @@
-# check folder "practica3"
+# wrong README :(     pls check folder "practica3"
 
