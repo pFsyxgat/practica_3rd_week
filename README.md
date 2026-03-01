@@ -1,2 +1,2 @@
-# practica_3rd_week
+# check folder "practica_3rd_week"
 
