@@ -1,2 +1,2 @@
 # wrong README :(     pls check folder "practica3"
-+ problem with commit's name. so sorry
++ some problems with commits. so sorry. don't pay attention
